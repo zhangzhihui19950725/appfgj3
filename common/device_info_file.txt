@@ -1,0 +1,7 @@
+platformName||Android
+platformVersion||9
+deviceName||OB6585TSDYUGNJSC
+appPackage||com.house365.xinfangbao
+appActivity||com.house365.xinfangbao.ui.activity.SplashActivity
+noReset||True
+url||http://127.0.0.1:4723/wd/hub
